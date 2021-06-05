@@ -1,0 +1,8 @@
+{
+  "name": "syook-socket",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/Akshayus27/syook-socket.git",
+  "author": "Akshayus27 <akshayus27@gmail.com>",
+  "license": "MIT"
+}
