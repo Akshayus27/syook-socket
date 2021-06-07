@@ -6,8 +6,7 @@
   "author": "Akshayus27 <akshayus27@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon server.js",
-    "client": "nodemon client.js"
+    "start": "nodemon server.js"
   },
   "dependencies": {
     "mongoose": "^5.12.13",
